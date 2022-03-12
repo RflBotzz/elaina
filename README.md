@@ -52,7 +52,7 @@ Click the deploy icon below !
 ## Termux
 ```bash
 > apt update && apt upgrade
-> pkg install libweb nodejs git ffmpeg
+> pkg install libwebp nodejs git ffmpeg
 > git clone https://github.com/RflBotzz/elaina.git
 > cd elaina
 > npm install
