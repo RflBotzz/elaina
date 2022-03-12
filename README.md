@@ -80,7 +80,8 @@ You can edit owner and other in `'./settings/config.json'`
 - [Group 2](https://chat.whatsapp.com/DYMuIP4jtwgE2hNL8bw7W8)
 
 # Thanks To
-- My god & my parents
+- Allah Swt
+- Keluarga saya
 - Penyedia module
 - Teman" yang selalu support saya
 - Kalian semua 🛐
